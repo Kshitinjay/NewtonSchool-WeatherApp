@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NewtonSchool-WeatherApp/static/css/main.a32d1aa2.chunk.css",
+    "main.js": "/NewtonSchool-WeatherApp/static/js/main.c45a86c6.chunk.js",
+    "main.js.map": "/NewtonSchool-WeatherApp/static/js/main.c45a86c6.chunk.js.map",
+    "runtime-main.js": "/NewtonSchool-WeatherApp/static/js/runtime-main.6ba332c3.js",
+    "runtime-main.js.map": "/NewtonSchool-WeatherApp/static/js/runtime-main.6ba332c3.js.map",
+    "static/js/2.372f2a21.chunk.js": "/NewtonSchool-WeatherApp/static/js/2.372f2a21.chunk.js",
+    "static/js/2.372f2a21.chunk.js.map": "/NewtonSchool-WeatherApp/static/js/2.372f2a21.chunk.js.map",
+    "static/js/3.305c2959.chunk.js": "/NewtonSchool-WeatherApp/static/js/3.305c2959.chunk.js",
+    "static/js/3.305c2959.chunk.js.map": "/NewtonSchool-WeatherApp/static/js/3.305c2959.chunk.js.map",
+    "index.html": "/NewtonSchool-WeatherApp/index.html",
+    "static/css/main.a32d1aa2.chunk.css.map": "/NewtonSchool-WeatherApp/static/css/main.a32d1aa2.chunk.css.map",
+    "static/js/2.372f2a21.chunk.js.LICENSE.txt": "/NewtonSchool-WeatherApp/static/js/2.372f2a21.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ba332c3.js",
+    "static/js/2.372f2a21.chunk.js",
+    "static/css/main.a32d1aa2.chunk.css",
+    "static/js/main.c45a86c6.chunk.js"
+  ]
+}
